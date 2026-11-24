@@ -28,6 +28,12 @@
 
 ---
 
+## 🎮 About the Game
+
+An engaging arcade game featuring immersive gameplay, rich mechanics, and hours of entertainment. Experience Megabonk in its full glory.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -85,10 +91,9 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10/11 (64-bit) | macOS 11.0 or later |
+| **RAM** | 8 GB | 8 GB |
+| **Storage** | 10 GB available space | 10 GB available space |
 
 ---
 
